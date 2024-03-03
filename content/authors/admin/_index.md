@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Andrei Panferov is a research scientist at Yandex Research. His research interests include natural language processing, efficient deep learning and federated learning. He's currently a last year bachelor's sudent at Moscow Institute of Physics and Technology.
+I'm a research scientist at Yandex Research. My research interests include natural language processing, efficient deep learning and federated learning. I'm currently a final year bachelor's student at Moscow Institute of Physics and Technology (MIPT).
 {style="text-align: justify;"}

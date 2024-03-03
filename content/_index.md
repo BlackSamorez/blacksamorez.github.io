@@ -31,7 +31,11 @@ sections:
           location: Moscow, Russia
           date_start: '2023-11-14'
           date_end: ''
-          description: Working on Large Language Models compression.
+          description: |2-
+            * Wrote a first-author [paper on _LLM Compression_](https://arxiv.org/abs/2401.06118)
+            * Achieved _state-of-the-art_ results on _LLM_ compression, reducing model size by _87%_ with acceptable loss in performance
+            * Wrote efficient inference kernels using _Triton_ and _C++_, speeding up _LLM_ inference by up to _320%_
+            * Integrated the framework into the _transformers_ library, enabling low RAM dispatch and reducing instance RAM requirements by _70%_
         - title: Research Intern
           company: KAUST, Optimization and Machine Learning Lab
           company_url: ''
@@ -41,7 +45,13 @@ sections:
           date_end: '2023-09-30'
           description: |2-
             * Conducted research under the supervision of _Prof. Peter Richtárik_.
-            * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
+            * Authored a first-author [paper on _Correlated Quantization_](https://arxiv.org/abs/2401.05518)
+        - title: Infrastructure Developer
+          company: Eqvilent (HFT Fund)
+          company_url: ''
+          location: Remote
+          date_start: '2022-07-01'
+          date_end: '2023-03-01'
         - title: ML Engineer Intern (NLP)
           company: Yandex
           company_url: ''
@@ -50,10 +60,8 @@ sections:
           date_start: '2022-03-08'
           date_end: '2022-07-05'
           description: |2-
-            * Refactored and optimized an _LLM inference framework_ enabling abstract _tabular data_ insertion for efficient _map‑reduce_ inference.
-            * Derived theory and ran experiments on distributed optimization, focusing on communication compression.
-            * Increased test coverage of the _map‑reduce_ inference interface from 0 to 85% through rigorous unit testing.
-            * Took part in developing a _universal LLM benchmarking solution_ adapting _two datasets_ for it.
+            * Enabled abstract _tabular data_ insertion for efficient _map-reduce_ _LLM_ inference, speeding up the tabular data processing by 120%
+            * Increased test coverage of the _map-reduce_ inference interface from _0 to 85%_ through rigorous unit testing
         - title: Researcher
           company: Terra Quantum AG
           company_url: https://terraquantum.swiss/
