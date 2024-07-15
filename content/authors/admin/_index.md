@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Looking for PhD opportunities
-      institution: Maybe Your University
-      year: ????
+    - course: PhD in Computer Science
+      institution: ISTA
+      year: 2024-now
     - course: BSc in Applied Mathematics and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2024
+      year: 2020-2024
     - course: Machine Learning Engineer
       institution: Yandex School of Data Analysis
-      year: 2023
+      year: 2021-2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -24,13 +24,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior ML Engineer (NLP)
+          company: Wildberries
+          company_url: https://wildberries.ru/
+          company_logo: wildberries
+          location: Remote
+          date_start: '2024-04-16'
+          date_end: ''
+          description: |2-
+            * Oversaw the LLM deployment
         - title: ML Research Scientist
           company: Yandex Research
           company_url: https://research.yandex.com/
           company_logo: yandex
           location: Moscow, Russia
           date_start: '2023-11-14'
-          date_end: ''
+          date_end: '2024-02-15'
           description: |2-
             * Wrote a first-author [paper on _LLM Compression_](https://arxiv.org/abs/2401.06118)
             * Achieved _state-of-the-art_ results on _LLM_ compression, reducing model size by _87%_ with acceptable loss in performance
