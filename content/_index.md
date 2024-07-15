@@ -32,7 +32,7 @@ sections:
           date_start: '2024-04-16'
           date_end: ''
           description: |2-
-            * Oversaw the LLM deployment
+            * Overseeing the LLM deployment
         - title: ML Research Scientist
           company: Yandex Research
           company_url: https://research.yandex.com/
