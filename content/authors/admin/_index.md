@@ -17,12 +17,14 @@ last_name: Panferov
 superuser: true
 
 # Role/position/tagline
-role: ML Research Scientist
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Yandex Research
-    url: https://research.yandex.com/
+  - name: ISTA
+    url: https://ista.ac.at/
+  - name: EPFL
+    url: https://www.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, efficient deep learning and federated learning.
@@ -37,14 +39,17 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: ISTA
+      institution: Institute of Science and Technology Austria (ISTA)
       year: 2024-now
-    - course: BSc in Applied Mathematics and Physics
-      institution: Moscow Institute of Physics and Technology
-      year: 2020-2024
-    - course: Machine Learning Engineer
-      institution: Yandex School of Data Analysis
+    - course: Visiting ELLIS PhD in Computer Science
+      institution: École Polytechnique Fédérale de Lausanne (EPFL)
+      year: 2024-now
+    - course: Graduate Program in Machine Learning
+      institution: Yandex School of Data Analysis (YSDA)
       year: 2021-2023
+    - course: BSc in Applied Mathematics and Physics
+      institution: Moscow Institute of Physics and Technology (MIPT)
+      year: 2020-2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-I'm a research scientist at Yandex Research. My research interests include natural language processing, efficient deep learning and federated learning. I'm currently a final year bachelor's student at Moscow Institute of Physics and Technology (MIPT).
+I'm a PhD Candidate at the Institute of Science and Technology Austria (ISTA) and a Visiting ELLIS PhD at École Polytechnique Fédérale de Lausanne (EPFL). My research interests include natural language processing, efficient deep learning and federated learning.
 {style="text-align: justify;"}

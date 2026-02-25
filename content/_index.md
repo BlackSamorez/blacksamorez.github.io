@@ -24,44 +24,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior ML Engineer (NLP)
+        - title: Senior ML Engineer
           company: Wildberries
           company_url: https://wildberries.ru/
           company_logo: wildberries
-          location: Remote
+          location: Russia
           date_start: '2024-04-16'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
-            * Overseeing the LLM deployment
-        - title: ML Research Scientist
+            * Set up a goods description vectorization pipeline, filling a 100m+ rows database and maintaining 300 peak RPS
+            * Oversaw the centralized LLM deployment, putting out Llama and Gemma APIs for highly parallelized internal use by 5 adjacent teams
+        - title: ML Research Resident
           company: Yandex Research
           company_url: https://research.yandex.com/
           company_logo: yandex
           location: Moscow, Russia
           date_start: '2023-11-14'
-          date_end: '2024-02-15'
+          date_end: '2024-03-31'
           description: |2-
             * Wrote a first-author [paper on _LLM Compression_](https://arxiv.org/abs/2401.06118)
             * Achieved _state-of-the-art_ results on _LLM_ compression, reducing model size by _87%_ with acceptable loss in performance
             * Wrote efficient inference kernels using _Triton_ and _C++_, speeding up _LLM_ inference by up to _320%_
             * Integrated the framework into the _transformers_ library, enabling low RAM dispatch and reducing instance RAM requirements by _70%_
-        - title: Research Intern
-          company: KAUST, Optimization and Machine Learning Lab
-          company_url: ''
-          company_logo: kaust
-          location: Saudi Arabia
-          date_start: '2023-07-10'
-          date_end: '2023-09-30'
-          description: |2-
-            * Conducted research under the supervision of _Prof. Peter Richtárik_.
-            * Authored a first-author [paper on _Correlated Quantization_](https://arxiv.org/abs/2401.05518)
-        - title: Infrastructure Developer
+        - title: Software/ML Engineer
           company: Eqvilent (HFT Fund)
           company_url: ''
           location: Remote
           date_start: '2022-07-01'
           date_end: '2023-03-01'
-        - title: ML Engineer Intern (NLP)
+        - title: ML Engineer Intern
           company: Yandex
           company_url: ''
           company_logo: yandex
@@ -71,17 +62,6 @@ sections:
           description: |2-
             * Enabled abstract _tabular data_ insertion for efficient _map-reduce_ _LLM_ inference, speeding up the tabular data processing by 120%
             * Increased test coverage of the _map-reduce_ inference interface from _0 to 85%_ through rigorous unit testing
-        - title: Researcher
-          company: Terra Quantum AG
-          company_url: https://terraquantum.swiss/
-          company_logo: tq-black
-          location: Moscow, Russia
-          date_start: '2020-07-01'
-          date_end: '2022-07-31'
-          description: |2-
-            * Researched _quantum algorithms_ for business applications.
-            * Developed an NMR spectra analysis toll, allowing for its use for for quantum computations.
-            * Optimized _LLM_ deployment for chat assistant applications, reducing latency by 40%.
     design:
       columns: '1'
   - block: accomplishments
